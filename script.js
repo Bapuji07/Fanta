@@ -39,7 +39,7 @@ var tl1=gsap.timeline({scrollTrigger:{
     trigger:".sec-three",
     start:"0% 90%",
     end:"50% 50%",
-    markers:true,
+    // markers:true,
     scrub:true,
     }})
     tl1.to("#fanta",{
